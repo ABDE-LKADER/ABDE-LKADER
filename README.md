@@ -4,7 +4,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<!-- <p align="center">
   <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src=""/></a>
@@ -25,9 +25,9 @@
   <a href="https://github.com/ABDE-LKADER?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ABDE-LKADER?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ABDE-LKADER/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="/></a>
 </p>
-
+-->
 <p align="center">
 <img align="center" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
 </p>
