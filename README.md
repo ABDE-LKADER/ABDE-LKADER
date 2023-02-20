@@ -4,7 +4,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<!--p align="center">
   <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src=""/></a>
@@ -16,7 +16,7 @@
   <a href=""><img width="32px" alt="Facebook" title="Facebook" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+-->
 <p align="center">
 <img align="center" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
 </p>
