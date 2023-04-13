@@ -17,6 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 -->
+
 <p align="center">
 <img align="center" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
 </p>
@@ -59,6 +60,8 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </p>
+
+<p align="center" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=ABDE-LKADER&label=Profile%20views&color=0e75b6&style=flat" alt="ABDE-LKADER" /> </p>
 
   <h3 align="center">🔥 Streak Stats</h3>
   <p align="center">
