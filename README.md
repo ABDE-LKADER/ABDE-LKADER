@@ -61,4 +61,3 @@
     <a href="https://github.com/ABDE-LKADER/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ABDE-LKADER's streak" src="https://streak-stats.demolab.com/?user=ABDE-LKADER&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <h3 align="center">🔥 Streak Graph</h3>
