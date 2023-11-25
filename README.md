@@ -52,10 +52,9 @@
   </p>
 </p>
 
-<p align="center" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=ABDE-LKADER&label=Profile%20views&color=0e75b6&style=flat" alt="ABDE-LKADER" /> </p>
-
   <h3 align="center">🔥 Streak Stats</h3>
   <p align="center">
     <a href="https://github.com/ABDE-LKADER/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ABDE-LKADER's streak" src="https://streak-stats.demolab.com/?user=ABDE-LKADER&theme=monokai-metallian&hide_border=true"/>
     </a>
+    <p align="center" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=ABDE-LKADER&label=Profile%20views&color=0e75b6&style=flat" alt="ABDE-LKADER" /> </p>
