@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20ABDE-LKADER;I%20Love%20To%20Code;Always%20I%20Learn%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=FFF400FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/abadouab" alt="abadouab's 42 stats" /></a>
+</p>
+
 <!-- Social icons section -->
 <!--p align="center">
   <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src=""/></a>
@@ -16,10 +20,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 -->
-
-<p align="center">
-<img align="center" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAS/pompo-the-cinephile-typing-fast.gif">
-</p>
 
 <p align="center">
   <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
